@@ -1,4 +1,9 @@
 # React Password Generator
+
+## Information
+- Website: www.mehmettepeli.com
+- E-Mail: mehmet@mehmettepeli.com
+
 ## Easy Password Generator
 
 <img src="https://i.imgur.com/xDCHo2O.png"/>
